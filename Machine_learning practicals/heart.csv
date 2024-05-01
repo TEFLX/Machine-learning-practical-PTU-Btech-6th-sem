@@ -1,0 +1,6 @@
+age,sex,trestbps,chol,fbs,exang,heartdisease
+63,male,145,233,1,0,1
+37,male,130,250,0,1,0
+28,female,120,204,0,1,1
+56,male,130,236,0,1,1
+57,female,120,354,0,1,0
